@@ -1,0 +1,10 @@
+class,v1_baseline,v1_oversampling,v2_baseline
+pedestrian,522,512,469
+rider,32,29,30
+car,2098,2107,1923
+truck,122,133,114
+bus,45,48,30
+motorcycle,24,22,27
+bicycle,51,43,48
+traffic light,856,828,689
+traffic sign,1150,1119,1058

@@ -1,0 +1,54 @@
+{
+  "model": "runs\\drivesight_v2\\v2_cls_pw025\\weights\\best.pt",
+  "split": "val",
+  "global_conf": 0.05,
+  "iou": 0.7,
+  "match_iou": 0.5,
+  "imgsz": 1152,
+  "policies": {
+    "global_025": {
+      "pedestrian": 0.25,
+      "rider": 0.25,
+      "car": 0.25,
+      "truck": 0.25,
+      "bus": 0.25,
+      "motorcycle": 0.25,
+      "bicycle": 0.25,
+      "traffic light": 0.25,
+      "traffic sign": 0.25
+    },
+    "max_f1_per_class": {
+      "pedestrian": 0.3,
+      "rider": 0.2,
+      "car": 0.35,
+      "truck": 0.25,
+      "bus": 0.35,
+      "motorcycle": 0.25,
+      "bicycle": 0.25,
+      "traffic light": 0.3,
+      "traffic sign": 0.3
+    },
+    "recall_priority": {
+      "pedestrian": 0.15,
+      "rider": 0.1,
+      "car": 0.35,
+      "truck": 0.25,
+      "bus": 0.35,
+      "motorcycle": 0.25,
+      "bicycle": 0.15,
+      "traffic light": 0.3,
+      "traffic sign": 0.3
+    },
+    "bicycle_lowered_candidate": {
+      "pedestrian": 0.3,
+      "rider": 0.2,
+      "bicycle": 0.15,
+      "motorcycle": 0.25,
+      "car": 0.35,
+      "bus": 0.35,
+      "truck": 0.25,
+      "traffic light": 0.3,
+      "traffic sign": 0.3
+    }
+  }
+}

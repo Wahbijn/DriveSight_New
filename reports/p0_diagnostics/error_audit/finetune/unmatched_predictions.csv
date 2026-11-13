@@ -1,0 +1,10 @@
+class,unmatched_predictions
+pedestrian,379
+rider,8
+car,903
+truck,75
+bus,7
+motorcycle,15
+bicycle,12
+traffic light,402
+traffic sign,680

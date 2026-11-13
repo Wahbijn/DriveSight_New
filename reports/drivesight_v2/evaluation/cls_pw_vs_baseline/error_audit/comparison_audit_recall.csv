@@ -1,0 +1,10 @@
+class,v2_baseline,v2_cls_pw,v2_baseline_gt_total,v2_cls_pw_gt_total
+pedestrian,0.5549,0.4783,1083,1083
+rider,0.2881,0.3051,59,59
+car,0.7334,0.7244,7401,7401
+truck,0.4972,0.4747,356,356
+bus,0.5166,0.4702,151,151
+motorcycle,0.2889,0.3333,45,45
+bicycle,0.3108,0.3514,74,74
+traffic light,0.5992,0.531,1759,1759
+traffic sign,0.5686,0.51,2492,2492

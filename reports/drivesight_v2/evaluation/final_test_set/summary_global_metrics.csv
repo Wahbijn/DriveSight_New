@@ -1,0 +1,4 @@
+model,weights,precision,recall,map50,map50_95,fitness
+v2_baseline,C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\runs\drivesight_v2\v2_baseline\weights\best.pt,0.6318640778353483,0.48134486711632335,0.5193298838093887,0.2758391559061261,0.2758391559061261
+v2_cls_pw,C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\runs\drivesight_v2\v2_cls_pw\weights\best.pt,0.6304930894516318,0.4459235538474959,0.5164942269746357,0.2738899588883369,0.2738899588883369
+v2_cls_pw025,C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\runs\drivesight_v2\v2_cls_pw025\weights\best.pt,0.6140738363085154,0.5073858490576276,0.5373373631523691,0.2839567943973109,0.2839567943973109

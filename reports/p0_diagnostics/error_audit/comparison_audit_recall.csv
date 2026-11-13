@@ -1,0 +1,10 @@
+class,baseline,oversampling,finetune,baseline_gt_total,oversampling_gt_total,finetune_gt_total
+pedestrian,0.494,0.506,0.5199,1083,1083,1083
+rider,0.322,0.2712,0.2373,59,59,59
+car,0.703,0.7006,0.6149,7401,7401,7401
+truck,0.4494,0.4326,0.3904,356,356,356
+bus,0.4371,0.4371,0.2914,151,151,151
+motorcycle,0.2667,0.3111,0.2222,45,45,45
+bicycle,0.2838,0.3108,0.1892,74,74,74
+traffic light,0.4883,0.5071,0.4582,1759,1759,1759
+traffic sign,0.5185,0.5253,0.4916,2492,2492,2492

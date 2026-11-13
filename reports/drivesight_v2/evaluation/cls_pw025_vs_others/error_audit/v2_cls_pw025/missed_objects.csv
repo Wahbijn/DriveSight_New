@@ -1,0 +1,10 @@
+class,missed_objects
+pedestrian,429
+rider,26
+car,1939
+truck,103
+bus,38
+motorcycle,24
+bicycle,45
+traffic light,689
+traffic sign,1067

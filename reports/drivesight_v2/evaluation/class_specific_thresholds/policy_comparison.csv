@@ -1,0 +1,67 @@
+class,metric,global_025,mixed_vru_015
+pedestrian,precision,0.7079,0.7079
+pedestrian,recall,0.5549,0.5549
+pedestrian,f1,0.6222,0.6222
+pedestrian,tp,601,601
+pedestrian,fp,248,248
+pedestrian,fn,482,482
+rider,precision,0.5862,0.5
+rider,recall,0.2881,0.3559
+rider,f1,0.3864,0.4158
+rider,tp,17,21
+rider,fp,12,21
+rider,fn,42,38
+car,precision,0.7567,0.7567
+car,recall,0.7334,0.7334
+car,f1,0.7449,0.7449
+car,tp,5428,5428
+car,fp,1745,1745
+car,fn,1973,1973
+truck,precision,0.6413,0.6413
+truck,recall,0.4972,0.4972
+truck,f1,0.5601,0.5601
+truck,tp,177,177
+truck,fp,99,99
+truck,fn,179,179
+bus,precision,0.729,0.729
+bus,recall,0.5166,0.5166
+bus,f1,0.6047,0.6047
+bus,tp,78,78
+bus,fp,29,29
+bus,fn,73,73
+motorcycle,precision,0.3714,0.2909
+motorcycle,recall,0.2889,0.3556
+motorcycle,f1,0.325,0.32
+motorcycle,tp,13,16
+motorcycle,fp,22,39
+motorcycle,fn,32,29
+bicycle,precision,0.6053,0.4918
+bicycle,recall,0.3108,0.4054
+bicycle,f1,0.4107,0.4444
+bicycle,tp,23,30
+bicycle,fp,15,31
+bicycle,fn,51,44
+traffic light,precision,0.6071,0.6071
+traffic light,recall,0.5992,0.5992
+traffic light,f1,0.6031,0.6031
+traffic light,tp,1054,1054
+traffic light,fp,682,682
+traffic light,fn,705,705
+traffic sign,precision,0.6678,0.6678
+traffic sign,recall,0.5686,0.5686
+traffic sign,f1,0.6142,0.6142
+traffic sign,tp,1417,1417
+traffic sign,fp,705,705
+traffic sign,fn,1075,1075
+OVERALL_macro,precision,0.6303,0.5992
+OVERALL_macro,recall,0.4842,0.5096
+OVERALL_macro,f1,0.5477,0.5508
+OVERALL_macro,tp,8808,8822
+OVERALL_macro,fp,3557,3599
+OVERALL_macro,fn,4612,4598
+OVERALL_micro,precision,0.7123,0.7102
+OVERALL_micro,recall,0.6563,0.6574
+OVERALL_micro,f1,0.6832,0.6828
+OVERALL_micro,tp,8808,8822
+OVERALL_micro,fp,3557,3599
+OVERALL_micro,fn,4612,4598

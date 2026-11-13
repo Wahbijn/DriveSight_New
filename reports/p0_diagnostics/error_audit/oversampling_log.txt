@@ -1,0 +1,65 @@
+Loading model: runs\detect\runs\bdd100k_yolo11n_oversampling\weights\best.pt
+Validation images: 686
+Confidence threshold: 0.25
+Matching IoU threshold: 0.5
+Processed 100/686 images
+Processed 200/686 images
+Processed 300/686 images
+Processed 400/686 images
+Processed 500/686 images
+Processed 600/686 images
+Processed 686/686 images
+
+========== VALIDATION ERROR AUDIT ==========
+Model: runs\detect\runs\bdd100k_yolo11n_oversampling\weights\best.pt
+Images: 686
+Ground-truth objects: 13420
+Predictions: 12265
+Correct class matches: 8207
+Class confusions: 208
+Missed objects: 5005
+Unmatched predictions: 3850
+
+Missed objects by class:
+  pedestrian: 519
+  rider: 30
+  car: 2186
+  truck: 136
+  bus: 43
+  motorcycle: 24
+  bicycle: 50
+  traffic light: 848
+  traffic sign: 1169
+
+Unmatched predictions by class:
+  pedestrian: 271
+  rider: 24
+  car: 1984
+  truck: 87
+  bus: 30
+  motorcycle: 12
+  bicycle: 34
+  traffic light: 543
+  traffic sign: 865
+
+Most common class confusions:
+  True truck -> predicted car: 57
+  True bus -> predicted truck: 26
+  True car -> predicted truck: 23
+  True traffic light -> predicted traffic sign: 19
+  True bus -> predicted car: 16
+  True traffic sign -> predicted traffic light: 14
+  True rider -> predicted pedestrian: 9
+  True truck -> predicted bus: 8
+  True pedestrian -> predicted rider: 7
+  True car -> predicted bus: 6
+  True motorcycle -> predicted bicycle: 5
+  True pedestrian -> predicted car: 5
+  True pedestrian -> predicted motorcycle: 2
+  True rider -> predicted car: 2
+  True motorcycle -> predicted car: 2
+
+Saved example images: 30
+Output directory: reports\p0_diagnostics\error_audit\oversampling
+
+CSV reports saved to reports\p0_diagnostics\error_audit\oversampling

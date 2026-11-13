@@ -1,0 +1,47 @@
+{
+  "model": "C:\\Users\\wahbi\\OneDrive\\Bureau\\DriveSight_New\\runs\\drivesight_v2\\v2_cls_pw025\\weights\\best.pt",
+  "split": "test",
+  "global_conf": 0.05,
+  "eval_settings": {
+    "imgsz": 1152,
+    "iou": 0.7,
+    "match_iou": 0.5
+  },
+  "n_images": 830,
+  "profiles": {
+    "global_025": {
+      "pedestrian": 0.25,
+      "rider": 0.25,
+      "car": 0.25,
+      "truck": 0.25,
+      "bus": 0.25,
+      "motorcycle": 0.25,
+      "bicycle": 0.25,
+      "traffic light": 0.25,
+      "traffic sign": 0.25
+    },
+    "balanced_max_f1": {
+      "pedestrian": 0.3,
+      "rider": 0.2,
+      "bicycle": 0.25,
+      "motorcycle": 0.25,
+      "car": 0.35,
+      "bus": 0.35,
+      "truck": 0.25,
+      "traffic light": 0.3,
+      "traffic sign": 0.3
+    },
+    "vru_recall_bicycle": {
+      "pedestrian": 0.3,
+      "rider": 0.2,
+      "bicycle": 0.15,
+      "motorcycle": 0.25,
+      "car": 0.35,
+      "bus": 0.35,
+      "truck": 0.25,
+      "traffic light": 0.3,
+      "traffic sign": 0.3
+    }
+  },
+  "note": "FINAL ONE-TIME TEST-SET CHECK. Thresholds imported unchanged from inference_profiles.py; nothing tuned against these results."
+}

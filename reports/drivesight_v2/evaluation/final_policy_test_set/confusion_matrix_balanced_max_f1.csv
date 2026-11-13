@@ -1,0 +1,10 @@
+true_class,pedestrian,rider,car,truck,bus,motorcycle,bicycle,traffic light,traffic sign,missed_background
+pedestrian,670,2,4,0,0,0,1,0,0,551
+rider,11,28,1,0,0,0,0,0,0,32
+car,4,1,6109,28,12,1,0,0,1,3072
+truck,0,0,66,237,8,0,0,0,0,163
+bus,0,0,21,19,68,0,0,0,1,62
+motorcycle,1,0,1,0,0,17,0,0,0,20
+bicycle,2,2,0,0,0,1,50,0,0,61
+traffic light,0,0,0,0,0,0,0,1233,10,916
+traffic sign,2,0,4,2,0,0,0,19,1623,1377

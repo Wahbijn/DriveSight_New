@@ -1,0 +1,10 @@
+class,baseline,oversampling,finetune
+pedestrian,537,519,512
+rider,33,30,30
+car,2167,2186,2831
+truck,134,136,154
+bus,43,43,59
+motorcycle,26,24,31
+bicycle,53,50,55
+traffic light,884,848,932
+traffic sign,1185,1169,1255

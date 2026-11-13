@@ -1,0 +1,14 @@
+{
+  "data": "C:\\Users\\wahbi\\OneDrive\\Bureau\\DriveSight_New\\data\\bdd100k\\yolo_dataset\\data.yaml",
+  "split": "test",
+  "imgsz": 1152,
+  "conf": null,
+  "iou": 0.7,
+  "batch": 8,
+  "device": "0",
+  "models": {
+    "v2_baseline": "C:\\Users\\wahbi\\OneDrive\\Bureau\\DriveSight_New\\runs\\drivesight_v2\\v2_baseline\\weights\\best.pt",
+    "v2_cls_pw": "C:\\Users\\wahbi\\OneDrive\\Bureau\\DriveSight_New\\runs\\drivesight_v2\\v2_cls_pw\\weights\\best.pt",
+    "v2_cls_pw025": "C:\\Users\\wahbi\\OneDrive\\Bureau\\DriveSight_New\\runs\\drivesight_v2\\v2_cls_pw025\\weights\\best.pt"
+  }
+}

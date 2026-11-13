@@ -1,0 +1,14 @@
+{
+  "data": "C:\\Users\\wahbi\\OneDrive\\Bureau\\DriveSight_New\\data\\bdd100k\\yolo_dataset\\data.yaml",
+  "split": "val",
+  "imgsz": 1152,
+  "conf": null,
+  "iou": 0.7,
+  "batch": 8,
+  "device": "0",
+  "models": {
+    "v1_baseline": "runs\\detect\\runs\\bdd100k_yolo11n_baseline\\weights\\best.pt",
+    "v1_oversampling": "runs\\detect\\runs\\bdd100k_yolo11n_oversampling\\weights\\best.pt",
+    "v2_baseline": "runs\\drivesight_v2\\v2_baseline\\weights\\best.pt"
+  }
+}

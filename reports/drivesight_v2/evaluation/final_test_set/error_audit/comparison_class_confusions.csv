@@ -1,0 +1,30 @@
+true_class,predicted_class,v2_baseline,v2_cls_pw,v2_cls_pw025
+truck,car,84,79,71
+car,truck,29,24,22
+traffic sign,traffic light,23,23,28
+bus,car,28,21,24
+bus,truck,24,15,18
+traffic light,traffic sign,9,16,13
+rider,pedestrian,12,5,11
+car,bus,9,7,12
+truck,bus,10,7,11
+pedestrian,car,6,6,9
+traffic sign,car,6,5,6
+pedestrian,rider,5,5,2
+motorcycle,car,3,4,2
+rider,car,4,0,1
+bicycle,motorcycle,4,1,1
+car,pedestrian,2,2,3
+pedestrian,bicycle,2,3,1
+car,traffic sign,2,3,1
+traffic sign,pedestrian,0,1,2
+traffic sign,truck,0,1,2
+bicycle,pedestrian,1,0,2
+bicycle,rider,0,2,1
+motorcycle,pedestrian,1,1,1
+rider,motorcycle,1,0,0
+bus,traffic sign,1,1,1
+traffic sign,bus,1,0,0
+rider,traffic sign,1,1,0
+car,motorcycle,1,0,1
+car,rider,0,0,1

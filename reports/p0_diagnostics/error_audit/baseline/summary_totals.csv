@@ -1,0 +1,8 @@
+metric,value
+images,686
+ground_truth_objects,13420
+predictions,12210
+correct,8167
+confused,191
+missed,5062
+unmatched_predictions,3852

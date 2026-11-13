@@ -1,0 +1,3807 @@
+split,weather,scene,timeofday
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,undefined,highway,daytime
+train,rainy,residential,dawn/dusk
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,rainy,residential,daytime
+train,snowy,city street,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,dawn/dusk
+train,partly cloudy,highway,daytime
+train,partly cloudy,residential,dawn/dusk
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,night
+train,snowy,highway,daytime
+train,snowy,city street,daytime
+train,undefined,city street,daytime
+train,undefined,highway,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,partly cloudy,residential,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,rainy,city street,daytime
+train,snowy,residential,dawn/dusk
+train,rainy,city street,daytime
+train,clear,city street,night
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,overcast,city street,dawn/dusk
+train,clear,residential,daytime
+train,clear,highway,dawn/dusk
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,rainy,city street,dawn/dusk
+train,undefined,residential,daytime
+train,clear,highway,dawn/dusk
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,dawn/dusk
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,highway,daytime
+train,undefined,highway,daytime
+train,clear,city street,daytime
+train,rainy,residential,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,rainy,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,dawn/dusk
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,snowy,highway,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,rainy,highway,daytime
+train,undefined,highway,daytime
+train,partly cloudy,highway,daytime
+train,clear,residential,daytime
+train,undefined,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,rainy,city street,dawn/dusk
+train,clear,highway,dawn/dusk
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,highway,dawn/dusk
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,dawn/dusk
+train,rainy,undefined,night
+train,overcast,city street,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,dawn/dusk
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,rainy,highway,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,night
+train,overcast,residential,dawn/dusk
+train,overcast,city street,daytime
+train,rainy,highway,night
+train,rainy,city street,daytime
+train,partly cloudy,highway,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,dawn/dusk
+train,undefined,highway,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,foggy,highway,dawn/dusk
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,partly cloudy,highway,daytime
+train,overcast,highway,daytime
+train,clear,city street,dawn/dusk
+train,overcast,highway,daytime
+train,undefined,residential,daytime
+train,snowy,highway,daytime
+train,partly cloudy,residential,daytime
+train,clear,city street,night
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,overcast,highway,daytime
+train,clear,highway,daytime
+train,clear,highway,dawn/dusk
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,undefined,residential,daytime
+train,undefined,city street,dawn/dusk
+train,overcast,residential,daytime
+train,rainy,residential,dawn/dusk
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,snowy,residential,daytime
+train,snowy,residential,daytime
+train,overcast,highway,dawn/dusk
+train,overcast,highway,daytime
+train,overcast,highway,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,dawn/dusk
+train,overcast,city street,dawn/dusk
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,rainy,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,overcast,residential,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,undefined,highway,daytime
+train,undefined,highway,dawn/dusk
+train,partly cloudy,city street,dawn/dusk
+train,clear,city street,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,highway,dawn/dusk
+train,snowy,city street,dawn/dusk
+train,partly cloudy,city street,night
+train,overcast,highway,daytime
+train,overcast,residential,daytime
+train,snowy,city street,daytime
+train,undefined,highway,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,rainy,city street,dawn/dusk
+train,partly cloudy,highway,daytime
+train,clear,parking lot,dawn/dusk
+train,snowy,highway,daytime
+train,snowy,city street,dawn/dusk
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,snowy,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,night
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,snowy,highway,daytime
+train,clear,city street,daytime
+train,overcast,residential,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,undefined,highway,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,overcast,highway,daytime
+train,undefined,highway,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,snowy,city street,daytime
+train,snowy,city street,dawn/dusk
+train,partly cloudy,residential,daytime
+train,rainy,highway,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,snowy,residential,daytime
+train,rainy,highway,daytime
+train,clear,city street,daytime
+train,rainy,highway,daytime
+train,clear,residential,night
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,undefined,city street,daytime
+train,snowy,residential,daytime
+train,clear,highway,night
+train,overcast,highway,dawn/dusk
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,undefined,highway,daytime
+train,undefined,highway,daytime
+train,clear,city street,night
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,residential,daytime
+train,overcast,residential,daytime
+train,rainy,city street,daytime
+train,clear,city street,night
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,snowy,residential,dawn/dusk
+train,clear,gas stations,daytime
+train,clear,highway,daytime
+train,partly cloudy,highway,daytime
+train,partly cloudy,highway,daytime
+train,clear,residential,daytime
+train,clear,parking lot,daytime
+train,partly cloudy,city street,daytime
+train,snowy,residential,daytime
+train,clear,residential,daytime
+train,snowy,city street,dawn/dusk
+train,clear,city street,dawn/dusk
+train,partly cloudy,highway,daytime
+train,rainy,highway,dawn/dusk
+train,clear,highway,daytime
+train,rainy,city street,dawn/dusk
+train,overcast,city street,dawn/dusk
+train,snowy,highway,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,night
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,snowy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,snowy,residential,daytime
+train,overcast,highway,daytime
+train,clear,city street,night
+train,snowy,highway,daytime
+train,clear,city street,dawn/dusk
+train,overcast,city street,dawn/dusk
+train,clear,city street,night
+train,clear,city street,daytime
+train,clear,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,overcast,city street,daytime
+train,partly cloudy,residential,daytime
+train,rainy,city street,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,highway,daytime
+train,snowy,city street,daytime
+train,undefined,highway,daytime
+train,snowy,residential,night
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,dawn/dusk
+train,overcast,highway,dawn/dusk
+train,clear,city street,daytime
+train,snowy,residential,daytime
+train,rainy,residential,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,undefined,highway,daytime
+train,clear,city street,daytime
+train,undefined,highway,night
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,clear,city street,daytime
+train,rainy,highway,daytime
+train,snowy,city street,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,undefined,tunnel,undefined
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,dawn/dusk
+train,clear,residential,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,rainy,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,night
+train,overcast,residential,daytime
+train,clear,city street,night
+train,overcast,city street,dawn/dusk
+train,clear,highway,night
+train,overcast,highway,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,residential,daytime
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,dawn/dusk
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,undefined,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,partly cloudy,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,dawn/dusk
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,dawn/dusk
+train,snowy,city street,daytime
+train,snowy,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,dawn/dusk
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,rainy,residential,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,residential,daytime
+train,overcast,residential,daytime
+train,overcast,residential,daytime
+train,clear,highway,night
+train,clear,city street,daytime
+train,overcast,city street,dawn/dusk
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,snowy,highway,daytime
+train,undefined,residential,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,overcast,residential,daytime
+train,clear,highway,night
+train,rainy,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,partly cloudy,highway,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,dawn/dusk
+train,overcast,highway,dawn/dusk
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,dawn/dusk
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,highway,daytime
+train,partly cloudy,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,partly cloudy,highway,dawn/dusk
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,overcast,highway,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,rainy,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,snowy,highway,daytime
+train,snowy,city street,daytime
+train,partly cloudy,highway,daytime
+train,rainy,city street,daytime
+train,overcast,residential,daytime
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,undefined,residential,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,rainy,highway,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,undefined,parking lot,undefined
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,dawn/dusk
+train,rainy,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,night
+train,partly cloudy,city street,dawn/dusk
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,dawn/dusk
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,snowy,city street,daytime
+train,undefined,residential,daytime
+train,partly cloudy,city street,daytime
+train,overcast,highway,dawn/dusk
+train,overcast,city street,dawn/dusk
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,snowy,highway,night
+train,undefined,residential,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,snowy,residential,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,overcast,residential,daytime
+train,clear,residential,daytime
+train,clear,residential,dawn/dusk
+train,clear,residential,dawn/dusk
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,parking lot,daytime
+train,overcast,city street,daytime
+train,rainy,residential,daytime
+train,undefined,city street,daytime
+train,rainy,city street,daytime
+train,partly cloudy,highway,daytime
+train,partly cloudy,city street,daytime
+train,snowy,city street,daytime
+train,snowy,highway,daytime
+train,rainy,city street,dawn/dusk
+train,snowy,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,snowy,highway,daytime
+train,overcast,city street,dawn/dusk
+train,overcast,residential,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,residential,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,undefined,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,clear,highway,daytime
+train,undefined,tunnel,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,dawn/dusk
+train,rainy,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,night
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,snowy,city street,dawn/dusk
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,clear,highway,dawn/dusk
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,snowy,parking lot,daytime
+train,snowy,city street,daytime
+train,overcast,highway,daytime
+train,overcast,highway,daytime
+train,undefined,residential,daytime
+train,clear,residential,dawn/dusk
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,snowy,residential,daytime
+train,overcast,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,residential,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,overcast,residential,dawn/dusk
+train,clear,highway,dawn/dusk
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,overcast,highway,daytime
+train,partly cloudy,highway,daytime
+train,clear,residential,daytime
+train,snowy,city street,daytime
+train,overcast,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,residential,daytime
+train,clear,highway,daytime
+train,snowy,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,residential,night
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,dawn/dusk
+train,clear,highway,daytime
+train,rainy,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,partly cloudy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,rainy,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,residential,daytime
+train,clear,city street,night
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,partly cloudy,residential,dawn/dusk
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,snowy,residential,daytime
+train,clear,city street,night
+train,overcast,residential,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,clear,undefined,daytime
+train,rainy,residential,daytime
+train,overcast,residential,daytime
+train,clear,parking lot,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,overcast,highway,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,dawn/dusk
+train,clear,city street,daytime
+train,overcast,highway,dawn/dusk
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,rainy,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,overcast,residential,daytime
+train,overcast,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,dawn/dusk
+train,clear,highway,dawn/dusk
+train,snowy,highway,daytime
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,rainy,highway,daytime
+train,overcast,residential,daytime
+train,clear,highway,night
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,overcast,highway,dawn/dusk
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,clear,highway,dawn/dusk
+train,overcast,city street,daytime
+train,undefined,city street,dawn/dusk
+train,undefined,city street,daytime
+train,rainy,highway,dawn/dusk
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,dawn/dusk
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,undefined,city street,daytime
+train,snowy,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,rainy,highway,daytime
+train,undefined,city street,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,dawn/dusk
+train,clear,highway,daytime
+train,snowy,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,overcast,highway,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,overcast,residential,dawn/dusk
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,clear,residential,daytime
+train,partly cloudy,residential,daytime
+train,clear,city street,daytime
+train,partly cloudy,residential,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,snowy,highway,daytime
+train,partly cloudy,city street,daytime
+train,overcast,highway,daytime
+train,rainy,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,snowy,residential,daytime
+train,overcast,city street,dawn/dusk
+train,clear,residential,daytime
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,rainy,residential,daytime
+train,clear,city street,night
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,snowy,city street,night
+train,partly cloudy,residential,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,snowy,city street,daytime
+train,rainy,city street,night
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,highway,daytime
+train,rainy,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,dawn/dusk
+train,partly cloudy,residential,dawn/dusk
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,snowy,highway,daytime
+train,snowy,highway,daytime
+train,partly cloudy,city street,daytime
+train,rainy,residential,daytime
+train,snowy,city street,dawn/dusk
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,dawn/dusk
+train,clear,city street,dawn/dusk
+train,snowy,city street,daytime
+train,clear,city street,dawn/dusk
+train,overcast,city street,dawn/dusk
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,night
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,night
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,dawn/dusk
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,residential,daytime
+train,overcast,residential,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,snowy,residential,daytime
+train,snowy,city street,dawn/dusk
+train,clear,city street,dawn/dusk
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,clear,highway,night
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,snowy,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,dawn/dusk
+train,partly cloudy,residential,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,dawn/dusk
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,partly cloudy,highway,dawn/dusk
+train,rainy,residential,daytime
+train,undefined,city street,daytime
+train,clear,city street,night
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,night
+train,overcast,city street,daytime
+train,clear,city street,dawn/dusk
+train,undefined,highway,daytime
+train,overcast,city street,daytime
+train,undefined,highway,daytime
+train,partly cloudy,highway,daytime
+train,overcast,residential,daytime
+train,overcast,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,night
+train,partly cloudy,highway,daytime
+train,partly cloudy,residential,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,night
+train,overcast,city street,dawn/dusk
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,night
+train,partly cloudy,city street,daytime
+train,partly cloudy,residential,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,foggy,residential,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,overcast,highway,daytime
+train,rainy,city street,daytime
+train,overcast,city street,dawn/dusk
+train,snowy,highway,daytime
+train,overcast,city street,daytime
+train,rainy,city street,daytime
+train,undefined,residential,daytime
+train,overcast,city street,daytime
+train,overcast,highway,dawn/dusk
+train,partly cloudy,city street,daytime
+train,rainy,city street,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,overcast,residential,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,undefined,residential,daytime
+train,overcast,residential,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,undefined,highway,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,snowy,residential,dawn/dusk
+train,rainy,undefined,night
+train,snowy,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,dawn/dusk
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,snowy,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,dawn/dusk
+train,undefined,highway,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,partly cloudy,residential,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,rainy,residential,daytime
+train,rainy,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,clear,highway,daytime
+train,clear,city street,night
+train,partly cloudy,residential,dawn/dusk
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,overcast,highway,dawn/dusk
+train,undefined,highway,daytime
+train,clear,city street,night
+train,snowy,city street,daytime
+train,partly cloudy,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,clear,city street,dawn/dusk
+train,undefined,city street,daytime
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,dawn/dusk
+train,rainy,city street,dawn/dusk
+train,clear,residential,daytime
+train,undefined,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,dawn/dusk
+train,overcast,residential,dawn/dusk
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,rainy,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,partly cloudy,residential,daytime
+train,overcast,highway,dawn/dusk
+train,snowy,city street,daytime
+train,snowy,residential,daytime
+train,snowy,residential,daytime
+train,overcast,city street,daytime
+train,snowy,highway,daytime
+train,clear,city street,daytime
+train,overcast,residential,dawn/dusk
+train,clear,city street,daytime
+train,partly cloudy,residential,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,snowy,city street,night
+train,partly cloudy,residential,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,rainy,residential,daytime
+train,clear,residential,night
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,overcast,residential,daytime
+train,clear,residential,daytime
+train,clear,residential,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,undefined,residential,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,dawn/dusk
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,undefined,city street,dawn/dusk
+train,snowy,city street,daytime
+train,rainy,residential,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,rainy,highway,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,night
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,night
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,undefined,residential,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,undefined,highway,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,dawn/dusk
+train,undefined,city street,dawn/dusk
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,rainy,highway,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,night
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,highway,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,undefined,residential,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,overcast,city street,dawn/dusk
+train,snowy,parking lot,daytime
+train,partly cloudy,city street,daytime
+train,undefined,highway,daytime
+train,undefined,residential,daytime
+train,snowy,city street,daytime
+train,partly cloudy,city street,daytime
+train,snowy,city street,night
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,undefined,highway,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,night
+train,clear,highway,daytime
+train,clear,residential,night
+train,clear,city street,daytime
+train,rainy,highway,dawn/dusk
+train,overcast,city street,daytime
+train,rainy,highway,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,night
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,overcast,highway,daytime
+train,undefined,residential,daytime
+train,clear,highway,daytime
+train,undefined,highway,daytime
+train,partly cloudy,city street,daytime
+train,rainy,city street,daytime
+train,partly cloudy,city street,daytime
+train,undefined,highway,daytime
+train,rainy,city street,daytime
+train,rainy,city street,daytime
+train,partly cloudy,residential,daytime
+train,undefined,highway,daytime
+train,overcast,residential,daytime
+train,overcast,city street,daytime
+train,snowy,residential,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,dawn/dusk
+train,undefined,highway,daytime
+train,undefined,highway,daytime
+train,partly cloudy,residential,daytime
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,rainy,city street,dawn/dusk
+train,snowy,highway,dawn/dusk
+train,undefined,residential,daytime
+train,clear,residential,daytime
+train,overcast,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,undefined,highway,daytime
+train,partly cloudy,highway,daytime
+train,overcast,residential,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,snowy,residential,daytime
+train,partly cloudy,city street,daytime
+train,partly cloudy,residential,daytime
+train,overcast,city street,daytime
+train,overcast,highway,dawn/dusk
+train,undefined,residential,daytime
+train,undefined,highway,daytime
+train,clear,highway,night
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,night
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,undefined,residential,daytime
+train,overcast,highway,daytime
+train,snowy,city street,daytime
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,highway,night
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,rainy,highway,dawn/dusk
+train,clear,city street,night
+train,rainy,residential,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,undefined,highway,dawn/dusk
+train,overcast,residential,dawn/dusk
+train,clear,highway,night
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,rainy,residential,night
+train,partly cloudy,highway,daytime
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,clear,city street,dawn/dusk
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,rainy,highway,daytime
+train,overcast,highway,daytime
+train,overcast,highway,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,partly cloudy,residential,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,snowy,highway,daytime
+train,undefined,residential,daytime
+train,undefined,city street,daytime
+train,clear,city street,night
+train,clear,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,dawn/dusk
+train,partly cloudy,highway,daytime
+train,undefined,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,clear,city street,night
+train,clear,city street,daytime
+train,undefined,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,partly cloudy,highway,daytime
+train,clear,residential,daytime
+train,clear,residential,daytime
+train,overcast,highway,daytime
+train,clear,city street,night
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,night
+train,clear,city street,night
+train,clear,city street,dawn/dusk
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,partly cloudy,city street,dawn/dusk
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,undefined,highway,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,residential,daytime
+train,undefined,residential,daytime
+train,rainy,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,rainy,city street,dawn/dusk
+train,rainy,residential,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,night
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,snowy,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,snowy,highway,daytime
+train,clear,city street,daytime
+train,clear,residential,dawn/dusk
+train,undefined,highway,daytime
+train,snowy,highway,daytime
+train,clear,city street,night
+train,clear,residential,daytime
+train,clear,residential,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,night
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,highway,daytime
+train,overcast,highway,daytime
+train,clear,highway,daytime
+train,partly cloudy,highway,dawn/dusk
+train,undefined,highway,daytime
+train,snowy,city street,daytime
+train,undefined,residential,daytime
+train,overcast,city street,daytime
+train,undefined,city street,dawn/dusk
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,partly cloudy,highway,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,clear,parking lot,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,undefined,residential,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,clear,residential,dawn/dusk
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,partly cloudy,highway,daytime
+train,rainy,highway,daytime
+train,overcast,city street,daytime
+train,overcast,city street,dawn/dusk
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,overcast,residential,daytime
+train,clear,highway,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,snowy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,rainy,city street,daytime
+train,undefined,residential,daytime
+train,undefined,city street,daytime
+train,partly cloudy,residential,daytime
+train,undefined,city street,dawn/dusk
+train,undefined,residential,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,residential,daytime
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,snowy,city street,night
+train,clear,residential,daytime
+train,partly cloudy,undefined,daytime
+train,rainy,residential,daytime
+train,overcast,city street,dawn/dusk
+train,rainy,city street,night
+train,rainy,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,undefined,city street,dawn/dusk
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,dawn/dusk
+train,overcast,city street,daytime
+train,partly cloudy,highway,dawn/dusk
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,clear,residential,dawn/dusk
+train,rainy,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,dawn/dusk
+train,clear,residential,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,snowy,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,rainy,city street,dawn/dusk
+train,partly cloudy,city street,daytime
+train,snowy,residential,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,dawn/dusk
+train,rainy,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,daytime
+train,snowy,city street,daytime
+train,partly cloudy,highway,daytime
+train,rainy,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,rainy,city street,dawn/dusk
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,highway,dawn/dusk
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,snowy,city street,dawn/dusk
+train,undefined,city street,dawn/dusk
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,rainy,residential,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,undefined,residential,daytime
+train,snowy,city street,daytime
+train,overcast,residential,daytime
+train,snowy,city street,dawn/dusk
+train,clear,highway,daytime
+train,rainy,city street,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,rainy,highway,dawn/dusk
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,clear,highway,dawn/dusk
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,clear,city street,dawn/dusk
+train,rainy,city street,daytime
+train,overcast,residential,daytime
+train,snowy,city street,dawn/dusk
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,undefined,residential,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,rainy,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,dawn/dusk
+train,undefined,city street,dawn/dusk
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,snowy,residential,daytime
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,rainy,highway,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,rainy,highway,daytime
+train,clear,city street,daytime
+train,snowy,undefined,daytime
+train,rainy,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,snowy,highway,daytime
+train,snowy,city street,daytime
+train,snowy,city street,daytime
+train,undefined,parking lot,undefined
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,residential,daytime
+train,overcast,city street,daytime
+train,clear,city street,dawn/dusk
+train,undefined,city street,daytime
+train,snowy,highway,daytime
+train,clear,city street,night
+train,undefined,city street,daytime
+train,rainy,city street,dawn/dusk
+train,clear,highway,dawn/dusk
+train,undefined,highway,daytime
+train,snowy,city street,daytime
+train,clear,highway,night
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,residential,daytime
+train,snowy,highway,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,dawn/dusk
+train,partly cloudy,highway,daytime
+train,snowy,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,rainy,undefined,undefined
+train,rainy,residential,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,dawn/dusk
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,dawn/dusk
+train,partly cloudy,highway,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,night
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,clear,city street,night
+train,clear,highway,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,night
+train,overcast,city street,daytime
+train,clear,parking lot,daytime
+train,snowy,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,dawn/dusk
+train,undefined,residential,daytime
+train,overcast,city street,daytime
+train,undefined,undefined,daytime
+train,undefined,city street,daytime
+train,clear,city street,dawn/dusk
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,parking lot,daytime
+train,clear,city street,night
+train,partly cloudy,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,night
+train,overcast,highway,daytime
+train,snowy,city street,night
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,residential,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,clear,residential,daytime
+train,clear,highway,night
+train,clear,city street,dawn/dusk
+train,overcast,residential,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,overcast,city street,dawn/dusk
+train,snowy,residential,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,night
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,city street,dawn/dusk
+train,clear,city street,dawn/dusk
+train,snowy,city street,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,residential,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,rainy,highway,daytime
+train,rainy,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,rainy,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,night
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,highway,dawn/dusk
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,snowy,residential,dawn/dusk
+train,snowy,city street,dawn/dusk
+train,rainy,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,dawn/dusk
+train,overcast,city street,daytime
+train,rainy,city street,night
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,highway,daytime
+train,rainy,highway,daytime
+train,partly cloudy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,clear,parking lot,dawn/dusk
+train,clear,city street,night
+train,clear,highway,daytime
+train,overcast,residential,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,rainy,city street,daytime
+train,rainy,city street,dawn/dusk
+train,undefined,city street,daytime
+train,rainy,city street,dawn/dusk
+train,overcast,residential,daytime
+train,clear,highway,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,highway,dawn/dusk
+train,undefined,city street,daytime
+train,undefined,city street,dawn/dusk
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,night
+train,snowy,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,undefined,residential,daytime
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,snowy,residential,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,dawn/dusk
+train,clear,city street,dawn/dusk
+train,overcast,residential,daytime
+train,overcast,parking lot,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,residential,dawn/dusk
+train,partly cloudy,city street,daytime
+train,undefined,highway,daytime
+train,undefined,parking lot,daytime
+train,clear,city street,daytime
+train,clear,city street,dawn/dusk
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,undefined,residential,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,night
+train,undefined,highway,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,clear,highway,dawn/dusk
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,overcast,parking lot,daytime
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,clear,city street,night
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,snowy,residential,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,dawn/dusk
+train,undefined,city street,dawn/dusk
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,dawn/dusk
+train,undefined,residential,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,overcast,residential,daytime
+train,partly cloudy,highway,daytime
+train,overcast,highway,daytime
+train,partly cloudy,highway,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,rainy,highway,daytime
+train,overcast,city street,daytime
+train,snowy,highway,daytime
+train,partly cloudy,highway,daytime
+train,clear,highway,dawn/dusk
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,clear,city street,dawn/dusk
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,clear,residential,daytime
+train,partly cloudy,residential,daytime
+train,clear,highway,night
+train,partly cloudy,city street,daytime
+train,undefined,city street,dawn/dusk
+train,overcast,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,clear,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,clear,highway,daytime
+train,clear,city street,night
+train,clear,highway,dawn/dusk
+train,undefined,city street,daytime
+train,clear,residential,daytime
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,snowy,city street,daytime
+train,clear,city street,dawn/dusk
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,dawn/dusk
+train,rainy,highway,daytime
+train,overcast,city street,daytime
+train,snowy,residential,daytime
+train,undefined,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,highway,daytime
+train,snowy,highway,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,undefined,highway,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,rainy,city street,night
+train,overcast,highway,dawn/dusk
+train,partly cloudy,city street,daytime
+train,rainy,residential,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,dawn/dusk
+train,undefined,city street,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,rainy,residential,daytime
+train,overcast,city street,daytime
+train,overcast,highway,dawn/dusk
+train,overcast,city street,daytime
+train,rainy,undefined,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,clear,residential,daytime
+train,snowy,residential,daytime
+train,undefined,city street,daytime
+train,snowy,residential,daytime
+train,undefined,highway,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,clear,city street,night
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,clear,undefined,night
+train,partly cloudy,city street,dawn/dusk
+train,clear,city street,daytime
+train,clear,city street,night
+train,clear,highway,daytime
+train,partly cloudy,residential,dawn/dusk
+train,rainy,residential,daytime
+train,clear,city street,daytime
+train,snowy,residential,daytime
+train,clear,city street,daytime
+train,undefined,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,city street,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,rainy,residential,daytime
+train,clear,city street,daytime
+train,clear,highway,dawn/dusk
+train,undefined,residential,daytime
+train,rainy,highway,daytime
+train,clear,city street,night
+train,clear,highway,night
+train,rainy,city street,dawn/dusk
+train,clear,city street,daytime
+train,undefined,highway,daytime
+train,partly cloudy,city street,daytime
+train,clear,highway,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,dawn/dusk
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,undefined,residential,daytime
+train,undefined,city street,dawn/dusk
+train,overcast,city street,dawn/dusk
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,highway,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,partly cloudy,highway,daytime
+train,rainy,city street,daytime
+train,rainy,residential,daytime
+train,snowy,city street,daytime
+train,clear,city street,daytime
+train,overcast,city street,daytime
+train,clear,highway,daytime
+train,partly cloudy,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,undefined,highway,daytime
+train,snowy,residential,daytime
+train,clear,city street,daytime
+train,partly cloudy,city street,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,partly cloudy,residential,daytime
+train,clear,highway,daytime
+train,clear,city street,daytime
+train,undefined,city street,daytime
+train,clear,highway,dawn/dusk
+train,undefined,city street,dawn/dusk
+train,clear,residential,daytime
+train,clear,highway,daytime
+train,clear,residential,daytime
+train,rainy,city street,daytime
+train,snowy,residential,daytime
+train,overcast,highway,daytime
+train,clear,highway,daytime
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,clear,highway,daytime
+train,rainy,city street,daytime
+train,rainy,highway,daytime
+train,clear,highway,night
+train,clear,city street,daytime
+train,clear,highway,daytime
+train,overcast,city street,dawn/dusk
+train,overcast,city street,daytime
+train,clear,city street,daytime
+train,undefined,residential,daytime
+train,clear,highway,dawn/dusk
+train,partly cloudy,city street,dawn/dusk
+train,snowy,city street,daytime
+train,overcast,city street,daytime
+train,overcast,highway,dawn/dusk
+train,partly cloudy,city street,daytime
+train,partly cloudy,city street,daytime
+train,undefined,highway,daytime
+train,partly cloudy,highway,dawn/dusk
+train,partly cloudy,highway,daytime
+train,overcast,residential,daytime
+train,undefined,residential,daytime
+train,clear,city street,daytime
+train,rainy,city street,daytime
+train,snowy,city street,daytime
+train,undefined,city street,daytime
+train,clear,city street,daytime
+train,clear,city street,daytime
+train,snowy,residential,daytime
+train,overcast,residential,daytime
+train,clear,city street,daytime
+train,clear,city street,dawn/dusk
+train,overcast,city street,daytime
+train,partly cloudy,city street,daytime
+train,clear,residential,daytime
+train,partly cloudy,residential,daytime
+train,undefined,highway,daytime
+train,clear,city street,night
+train,clear,city street,daytime
+train,overcast,highway,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,rainy,city street,daytime
+train,undefined,city street,daytime
+train,overcast,city street,daytime
+train,overcast,residential,daytime
+train,clear,highway,dawn/dusk
+train,clear,city street,night
+train,undefined,city street,daytime
+train,overcast,residential,daytime
+train,overcast,city street,daytime
+train,overcast,city street,daytime
+train,rainy,city street,daytime
+train,clear,city street,dawn/dusk
+train,undefined,parking lot,undefined
+train,partly cloudy,highway,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+train,snowy,city street,daytime
+train,undefined,residential,daytime
+train,clear,residential,daytime
+train,rainy,city street,daytime
+train,clear,residential,daytime
+train,undefined,city street,daytime
+train,undefined,city street,daytime
+val,partly cloudy,city street,daytime
+val,clear,highway,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,daytime
+val,partly cloudy,highway,daytime
+val,partly cloudy,city street,daytime
+val,overcast,undefined,dawn/dusk
+val,overcast,residential,daytime
+val,partly cloudy,city street,daytime
+val,overcast,city street,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,clear,residential,daytime
+val,undefined,residential,daytime
+val,overcast,city street,dawn/dusk
+val,partly cloudy,city street,dawn/dusk
+val,undefined,city street,daytime
+val,clear,city street,daytime
+val,partly cloudy,highway,daytime
+val,snowy,city street,daytime
+val,partly cloudy,city street,daytime
+val,undefined,city street,daytime
+val,overcast,residential,daytime
+val,snowy,city street,daytime
+val,partly cloudy,highway,dawn/dusk
+val,clear,highway,daytime
+val,clear,residential,daytime
+val,clear,city street,dawn/dusk
+val,clear,city street,daytime
+val,clear,city street,daytime
+val,rainy,city street,daytime
+val,clear,city street,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,undefined,highway,daytime
+val,snowy,city street,daytime
+val,clear,city street,daytime
+val,undefined,undefined,daytime
+val,clear,highway,daytime
+val,clear,city street,daytime
+val,overcast,highway,dawn/dusk
+val,clear,highway,daytime
+val,rainy,city street,daytime
+val,clear,city street,night
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,undefined,city street,daytime
+val,partly cloudy,highway,daytime
+val,clear,residential,daytime
+val,clear,city street,daytime
+val,partly cloudy,highway,daytime
+val,clear,city street,daytime
+val,clear,city street,dawn/dusk
+val,clear,city street,daytime
+val,clear,highway,daytime
+val,clear,residential,dawn/dusk
+val,clear,highway,dawn/dusk
+val,clear,city street,daytime
+val,partly cloudy,city street,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,undefined,city street,daytime
+val,partly cloudy,highway,daytime
+val,clear,city street,daytime
+val,partly cloudy,city street,daytime
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,clear,residential,daytime
+val,rainy,highway,dawn/dusk
+val,clear,residential,daytime
+val,clear,residential,daytime
+val,clear,residential,daytime
+val,clear,city street,daytime
+val,rainy,highway,daytime
+val,undefined,tunnel,undefined
+val,overcast,highway,daytime
+val,undefined,highway,daytime
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,overcast,city street,daytime
+val,clear,city street,night
+val,clear,city street,daytime
+val,undefined,city street,daytime
+val,partly cloudy,city street,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,clear,residential,daytime
+val,overcast,highway,daytime
+val,overcast,residential,daytime
+val,partly cloudy,city street,daytime
+val,overcast,residential,daytime
+val,overcast,highway,daytime
+val,clear,city street,daytime
+val,overcast,parking lot,dawn/dusk
+val,partly cloudy,city street,daytime
+val,clear,highway,daytime
+val,rainy,city street,daytime
+val,undefined,residential,daytime
+val,overcast,city street,daytime
+val,undefined,city street,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,undefined,residential,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,daytime
+val,undefined,city street,daytime
+val,overcast,residential,daytime
+val,clear,highway,dawn/dusk
+val,clear,city street,daytime
+val,clear,residential,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,snowy,city street,daytime
+val,rainy,city street,daytime
+val,clear,residential,daytime
+val,clear,city street,daytime
+val,overcast,city street,dawn/dusk
+val,snowy,residential,daytime
+val,rainy,highway,dawn/dusk
+val,overcast,residential,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,clear,city street,daytime
+val,snowy,city street,daytime
+val,clear,highway,daytime
+val,overcast,highway,daytime
+val,overcast,city street,daytime
+val,snowy,city street,night
+val,rainy,city street,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,undefined,residential,dawn/dusk
+val,undefined,city street,daytime
+val,rainy,parking lot,daytime
+val,clear,city street,daytime
+val,clear,city street,dawn/dusk
+val,rainy,city street,daytime
+val,undefined,residential,daytime
+val,partly cloudy,residential,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,overcast,residential,daytime
+val,partly cloudy,highway,daytime
+val,overcast,highway,daytime
+val,undefined,city street,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,undefined,city street,daytime
+val,clear,residential,daytime
+val,rainy,highway,night
+val,overcast,residential,daytime
+val,partly cloudy,city street,dawn/dusk
+val,undefined,highway,daytime
+val,rainy,city street,daytime
+val,clear,city street,dawn/dusk
+val,overcast,highway,daytime
+val,partly cloudy,city street,dawn/dusk
+val,undefined,residential,daytime
+val,clear,highway,daytime
+val,clear,highway,night
+val,overcast,city street,daytime
+val,clear,residential,daytime
+val,partly cloudy,highway,dawn/dusk
+val,partly cloudy,city street,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,daytime
+val,undefined,residential,daytime
+val,snowy,city street,daytime
+val,overcast,highway,daytime
+val,overcast,residential,daytime
+val,clear,city street,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,clear,city street,dawn/dusk
+val,rainy,city street,daytime
+val,snowy,residential,daytime
+val,rainy,residential,daytime
+val,rainy,city street,daytime
+val,clear,highway,dawn/dusk
+val,overcast,city street,daytime
+val,overcast,residential,daytime
+val,clear,residential,dawn/dusk
+val,clear,city street,daytime
+val,clear,highway,daytime
+val,partly cloudy,city street,daytime
+val,undefined,residential,daytime
+val,rainy,city street,daytime
+val,overcast,highway,daytime
+val,overcast,city street,daytime
+val,clear,city street,daytime
+val,snowy,residential,daytime
+val,partly cloudy,highway,dawn/dusk
+val,overcast,city street,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,overcast,city street,dawn/dusk
+val,snowy,city street,daytime
+val,overcast,highway,dawn/dusk
+val,overcast,city street,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,rainy,city street,daytime
+val,snowy,city street,dawn/dusk
+val,clear,highway,daytime
+val,undefined,city street,daytime
+val,overcast,highway,daytime
+val,partly cloudy,city street,dawn/dusk
+val,undefined,residential,daytime
+val,overcast,city street,daytime
+val,rainy,city street,daytime
+val,undefined,city street,daytime
+val,clear,highway,daytime
+val,undefined,highway,daytime
+val,rainy,highway,daytime
+val,clear,highway,daytime
+val,overcast,city street,dawn/dusk
+val,clear,city street,daytime
+val,clear,residential,dawn/dusk
+val,clear,residential,daytime
+val,undefined,residential,daytime
+val,clear,residential,daytime
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,undefined,residential,daytime
+val,clear,highway,daytime
+val,rainy,highway,daytime
+val,clear,residential,daytime
+val,clear,city street,daytime
+val,rainy,highway,daytime
+val,clear,highway,night
+val,undefined,residential,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,rainy,city street,daytime
+val,clear,highway,daytime
+val,clear,city street,daytime
+val,snowy,residential,daytime
+val,overcast,city street,daytime
+val,clear,residential,daytime
+val,snowy,residential,daytime
+val,partly cloudy,city street,daytime
+val,undefined,city street,daytime
+val,partly cloudy,city street,daytime
+val,overcast,highway,daytime
+val,undefined,tunnel,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,partly cloudy,highway,daytime
+val,clear,city street,daytime
+val,snowy,city street,dawn/dusk
+val,partly cloudy,residential,daytime
+val,overcast,residential,daytime
+val,rainy,city street,daytime
+val,partly cloudy,residential,daytime
+val,clear,city street,daytime
+val,clear,city street,daytime
+val,clear,city street,daytime
+val,rainy,parking lot,daytime
+val,overcast,city street,dawn/dusk
+val,snowy,city street,daytime
+val,clear,city street,dawn/dusk
+val,overcast,city street,dawn/dusk
+val,partly cloudy,city street,daytime
+val,clear,highway,daytime
+val,partly cloudy,residential,daytime
+val,partly cloudy,city street,daytime
+val,overcast,city street,dawn/dusk
+val,snowy,residential,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,dawn/dusk
+val,clear,highway,daytime
+val,clear,highway,daytime
+val,clear,residential,daytime
+val,clear,highway,daytime
+val,overcast,residential,daytime
+val,undefined,residential,daytime
+val,undefined,city street,dawn/dusk
+val,clear,city street,night
+val,partly cloudy,city street,daytime
+val,clear,city street,night
+val,clear,highway,daytime
+val,clear,city street,daytime
+val,undefined,residential,daytime
+val,clear,highway,dawn/dusk
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,partly cloudy,residential,daytime
+val,rainy,highway,daytime
+val,snowy,city street,dawn/dusk
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,clear,undefined,daytime
+val,undefined,highway,daytime
+val,clear,highway,daytime
+val,clear,residential,daytime
+val,clear,highway,daytime
+val,clear,residential,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,overcast,highway,daytime
+val,overcast,residential,daytime
+val,clear,city street,dawn/dusk
+val,overcast,city street,daytime
+val,snowy,city street,daytime
+val,snowy,residential,daytime
+val,rainy,highway,daytime
+val,clear,city street,daytime
+val,overcast,residential,daytime
+val,overcast,residential,daytime
+val,clear,city street,daytime
+val,rainy,city street,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,clear,city street,daytime
+val,clear,city street,night
+val,overcast,city street,daytime
+val,partly cloudy,residential,daytime
+val,overcast,city street,daytime
+val,clear,residential,daytime
+val,clear,highway,daytime
+val,rainy,city street,daytime
+val,clear,city street,daytime
+val,partly cloudy,city street,dawn/dusk
+val,undefined,city street,daytime
+val,clear,city street,daytime
+val,clear,city street,daytime
+val,undefined,residential,daytime
+val,overcast,city street,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,overcast,residential,daytime
+val,undefined,city street,dawn/dusk
+val,overcast,highway,daytime
+val,undefined,highway,daytime
+val,clear,highway,daytime
+val,overcast,city street,daytime
+val,clear,city street,dawn/dusk
+val,undefined,residential,daytime
+val,undefined,residential,daytime
+val,snowy,residential,dawn/dusk
+val,overcast,city street,daytime
+val,rainy,city street,daytime
+val,clear,city street,daytime
+val,undefined,city street,daytime
+val,snowy,city street,daytime
+val,partly cloudy,highway,daytime
+val,clear,city street,daytime
+val,partly cloudy,highway,daytime
+val,clear,city street,dawn/dusk
+val,partly cloudy,city street,daytime
+val,clear,city street,daytime
+val,overcast,highway,daytime
+val,overcast,city street,daytime
+val,overcast,city street,daytime
+val,rainy,city street,daytime
+val,overcast,city street,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,overcast,city street,daytime
+val,overcast,parking lot,daytime
+val,partly cloudy,highway,daytime
+val,undefined,city street,daytime
+val,clear,highway,dawn/dusk
+val,snowy,highway,daytime
+val,snowy,city street,night
+val,rainy,residential,dawn/dusk
+val,clear,residential,daytime
+val,overcast,highway,daytime
+val,clear,highway,daytime
+val,undefined,residential,daytime
+val,snowy,city street,daytime
+val,rainy,city street,dawn/dusk
+val,overcast,city street,daytime
+val,snowy,highway,daytime
+val,clear,residential,daytime
+val,clear,city street,daytime
+val,undefined,highway,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,undefined,residential,daytime
+val,partly cloudy,city street,daytime
+val,overcast,city street,daytime
+val,overcast,city street,daytime
+val,clear,city street,daytime
+val,snowy,city street,dawn/dusk
+val,overcast,city street,daytime
+val,clear,city street,night
+val,overcast,city street,daytime
+val,snowy,city street,daytime
+val,overcast,residential,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,partly cloudy,residential,daytime
+val,clear,highway,daytime
+val,undefined,city street,daytime
+val,partly cloudy,city street,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,overcast,highway,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,clear,residential,daytime
+val,overcast,city street,daytime
+val,overcast,residential,daytime
+val,clear,residential,daytime
+val,clear,city street,daytime
+val,clear,highway,dawn/dusk
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,snowy,city street,daytime
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,undefined,city street,daytime
+val,overcast,city street,dawn/dusk
+val,snowy,residential,daytime
+val,partly cloudy,highway,dawn/dusk
+val,clear,city street,daytime
+val,rainy,city street,daytime
+val,undefined,city street,daytime
+val,clear,residential,night
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,clear,city street,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,clear,city street,dawn/dusk
+val,rainy,city street,daytime
+val,undefined,city street,daytime
+val,rainy,city street,daytime
+val,clear,highway,daytime
+val,overcast,city street,daytime
+val,clear,residential,daytime
+val,snowy,highway,daytime
+val,snowy,residential,daytime
+val,undefined,highway,daytime
+val,partly cloudy,parking lot,daytime
+val,clear,highway,daytime
+val,undefined,city street,daytime
+val,overcast,highway,daytime
+val,clear,city street,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,clear,highway,dawn/dusk
+val,rainy,residential,daytime
+val,overcast,city street,dawn/dusk
+val,clear,highway,daytime
+val,rainy,highway,night
+val,overcast,city street,dawn/dusk
+val,overcast,residential,daytime
+val,clear,highway,daytime
+val,overcast,highway,daytime
+val,clear,city street,night
+val,overcast,city street,daytime
+val,partly cloudy,highway,daytime
+val,clear,residential,night
+val,overcast,city street,daytime
+val,snowy,city street,daytime
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,overcast,city street,daytime
+val,clear,residential,daytime
+val,partly cloudy,residential,dawn/dusk
+val,overcast,residential,dawn/dusk
+val,clear,highway,dawn/dusk
+val,clear,city street,daytime
+val,undefined,city street,dawn/dusk
+val,clear,highway,daytime
+val,clear,city street,daytime
+val,rainy,undefined,night
+val,partly cloudy,city street,dawn/dusk
+val,rainy,residential,daytime
+val,clear,residential,daytime
+val,clear,city street,dawn/dusk
+val,clear,residential,daytime
+val,clear,city street,daytime
+val,clear,highway,daytime
+val,undefined,city street,daytime
+val,clear,highway,daytime
+val,clear,city street,daytime
+val,undefined,city street,daytime
+val,partly cloudy,highway,daytime
+val,undefined,city street,daytime
+val,clear,city street,night
+val,undefined,city street,daytime
+val,overcast,residential,daytime
+val,clear,city street,night
+val,rainy,city street,daytime
+val,overcast,highway,daytime
+val,rainy,residential,daytime
+val,undefined,highway,daytime
+val,overcast,highway,daytime
+val,partly cloudy,highway,daytime
+val,partly cloudy,city street,daytime
+val,clear,residential,daytime
+val,clear,highway,daytime
+val,overcast,city street,daytime
+val,clear,highway,dawn/dusk
+val,clear,parking lot,daytime
+val,undefined,city street,daytime
+val,undefined,city street,daytime
+val,overcast,residential,daytime
+val,clear,residential,daytime
+val,undefined,residential,daytime
+val,clear,highway,daytime
+val,partly cloudy,city street,daytime
+val,overcast,city street,daytime
+val,undefined,city street,daytime
+val,undefined,city street,dawn/dusk
+val,snowy,city street,daytime
+val,clear,highway,daytime
+val,undefined,highway,daytime
+val,snowy,city street,daytime
+val,snowy,residential,daytime
+val,undefined,city street,daytime
+val,clear,highway,daytime
+val,snowy,highway,dawn/dusk
+val,clear,highway,dawn/dusk
+val,partly cloudy,highway,daytime
+val,snowy,highway,daytime
+val,clear,city street,night
+val,overcast,city street,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,dawn/dusk
+val,overcast,city street,daytime
+val,snowy,city street,daytime
+val,overcast,highway,daytime
+val,overcast,highway,daytime
+val,clear,city street,daytime
+val,overcast,city street,daytime
+val,snowy,residential,daytime
+val,clear,city street,daytime
+val,clear,highway,daytime
+val,clear,highway,daytime
+val,overcast,city street,daytime
+val,clear,highway,daytime
+val,partly cloudy,city street,daytime
+val,clear,city street,daytime
+val,clear,city street,dawn/dusk
+val,partly cloudy,city street,daytime
+val,clear,highway,daytime
+val,clear,city street,daytime
+val,rainy,city street,daytime
+val,overcast,city street,daytime
+val,clear,highway,dawn/dusk
+val,overcast,city street,daytime
+val,snowy,residential,daytime
+val,partly cloudy,city street,daytime
+val,clear,residential,daytime
+val,overcast,highway,daytime
+val,overcast,city street,daytime
+val,clear,residential,daytime
+val,clear,city street,daytime
+val,overcast,highway,daytime
+val,clear,highway,daytime
+val,clear,residential,daytime
+val,snowy,residential,daytime
+val,clear,highway,dawn/dusk
+val,clear,city street,night
+val,overcast,city street,daytime
+val,overcast,city street,daytime
+val,partly cloudy,highway,daytime
+val,undefined,city street,daytime
+val,overcast,city street,daytime
+val,undefined,city street,daytime
+val,overcast,city street,dawn/dusk
+val,clear,parking lot,daytime
+val,undefined,highway,daytime
+val,snowy,residential,daytime
+val,clear,city street,daytime
+val,rainy,city street,daytime
+val,undefined,residential,daytime
+val,overcast,city street,daytime
+val,undefined,tunnel,undefined
+val,rainy,residential,dawn/dusk
+val,clear,city street,daytime
+val,undefined,city street,daytime
+val,clear,residential,daytime
+val,undefined,residential,daytime
+val,clear,residential,daytime
+val,overcast,residential,daytime
+val,rainy,city street,daytime
+val,clear,city street,daytime
+val,partly cloudy,city street,daytime
+val,clear,highway,daytime
+test,snowy,city street,daytime
+test,overcast,city street,dawn/dusk
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,undefined,residential,daytime
+test,rainy,undefined,night
+test,clear,residential,daytime
+test,undefined,residential,dawn/dusk
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,daytime
+test,partly cloudy,highway,daytime
+test,overcast,city street,dawn/dusk
+test,undefined,highway,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,partly cloudy,highway,daytime
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,partly cloudy,city street,dawn/dusk
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,night
+test,partly cloudy,city street,daytime
+test,overcast,residential,daytime
+test,clear,highway,daytime
+test,snowy,city street,daytime
+test,clear,city street,daytime
+test,rainy,city street,night
+test,clear,highway,daytime
+test,clear,residential,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,rainy,city street,daytime
+test,snowy,highway,daytime
+test,clear,city street,daytime
+test,partly cloudy,highway,daytime
+test,rainy,residential,daytime
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,highway,dawn/dusk
+test,clear,city street,daytime
+test,undefined,highway,daytime
+test,partly cloudy,city street,daytime
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,snowy,city street,daytime
+test,clear,city street,dawn/dusk
+test,clear,city street,daytime
+test,snowy,residential,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,snowy,residential,dawn/dusk
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,night
+test,snowy,residential,daytime
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,overcast,city street,dawn/dusk
+test,partly cloudy,city street,daytime
+test,undefined,city street,daytime
+test,clear,residential,daytime
+test,undefined,residential,daytime
+test,undefined,residential,daytime
+test,clear,residential,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,partly cloudy,residential,daytime
+test,clear,city street,daytime
+test,overcast,highway,dawn/dusk
+test,undefined,residential,daytime
+test,partly cloudy,highway,daytime
+test,clear,residential,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,rainy,city street,daytime
+test,rainy,highway,dawn/dusk
+test,clear,city street,daytime
+test,clear,city street,night
+test,partly cloudy,city street,daytime
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,rainy,highway,daytime
+test,clear,city street,night
+test,overcast,city street,daytime
+test,undefined,city street,dawn/dusk
+test,clear,residential,daytime
+test,clear,highway,dawn/dusk
+test,clear,highway,daytime
+test,snowy,city street,daytime
+test,partly cloudy,highway,daytime
+test,overcast,highway,dawn/dusk
+test,clear,city street,night
+test,clear,residential,daytime
+test,snowy,city street,night
+test,overcast,city street,daytime
+test,overcast,city street,dawn/dusk
+test,clear,city street,daytime
+test,snowy,city street,daytime
+test,clear,city street,daytime
+test,rainy,city street,daytime
+test,overcast,residential,daytime
+test,partly cloudy,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,rainy,city street,daytime
+test,undefined,tunnel,daytime
+test,clear,residential,daytime
+test,clear,residential,daytime
+test,overcast,city street,daytime
+test,undefined,residential,dawn/dusk
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,overcast,highway,daytime
+test,clear,city street,daytime
+test,overcast,highway,daytime
+test,clear,city street,dawn/dusk
+test,partly cloudy,highway,daytime
+test,overcast,residential,daytime
+test,partly cloudy,highway,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,clear,city street,night
+test,clear,city street,daytime
+test,clear,highway,dawn/dusk
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,clear,highway,daytime
+test,partly cloudy,city street,daytime
+test,undefined,city street,daytime
+test,snowy,residential,daytime
+test,rainy,highway,daytime
+test,undefined,highway,daytime
+test,clear,highway,daytime
+test,overcast,residential,daytime
+test,rainy,city street,daytime
+test,clear,residential,daytime
+test,clear,residential,daytime
+test,clear,city street,night
+test,clear,highway,night
+test,clear,highway,night
+test,clear,highway,daytime
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,snowy,city street,daytime
+test,clear,city street,daytime
+test,overcast,highway,daytime
+test,clear,city street,night
+test,clear,residential,daytime
+test,rainy,city street,dawn/dusk
+test,undefined,city street,daytime
+test,clear,city street,night
+test,undefined,residential,daytime
+test,partly cloudy,city street,daytime
+test,clear,residential,daytime
+test,partly cloudy,highway,daytime
+test,clear,city street,daytime
+test,undefined,residential,daytime
+test,clear,highway,daytime
+test,partly cloudy,highway,daytime
+test,snowy,city street,daytime
+test,snowy,city street,daytime
+test,undefined,highway,dawn/dusk
+test,clear,residential,daytime
+test,overcast,highway,daytime
+test,rainy,city street,daytime
+test,partly cloudy,highway,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,daytime
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,undefined,residential,daytime
+test,overcast,city street,dawn/dusk
+test,clear,city street,night
+test,undefined,highway,daytime
+test,clear,highway,daytime
+test,snowy,city street,daytime
+test,overcast,city street,daytime
+test,overcast,highway,daytime
+test,snowy,residential,daytime
+test,snowy,city street,dawn/dusk
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,clear,highway,daytime
+test,overcast,city street,daytime
+test,clear,highway,daytime
+test,clear,parking lot,dawn/dusk
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,rainy,residential,daytime
+test,snowy,city street,daytime
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,clear,highway,dawn/dusk
+test,rainy,highway,daytime
+test,clear,residential,dawn/dusk
+test,clear,highway,daytime
+test,overcast,city street,daytime
+test,overcast,highway,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,partly cloudy,highway,daytime
+test,undefined,residential,daytime
+test,clear,city street,daytime
+test,partly cloudy,city street,daytime
+test,undefined,city street,dawn/dusk
+test,snowy,residential,daytime
+test,undefined,city street,daytime
+test,snowy,city street,daytime
+test,clear,residential,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,rainy,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,residential,daytime
+test,clear,residential,daytime
+test,overcast,residential,daytime
+test,clear,highway,daytime
+test,overcast,city street,daytime
+test,rainy,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,dawn/dusk
+test,clear,highway,daytime
+test,snowy,city street,daytime
+test,clear,highway,daytime
+test,clear,city street,night
+test,partly cloudy,residential,daytime
+test,snowy,city street,daytime
+test,clear,city street,dawn/dusk
+test,clear,city street,night
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,snowy,city street,daytime
+test,partly cloudy,highway,daytime
+test,overcast,residential,dawn/dusk
+test,snowy,city street,daytime
+test,clear,residential,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,snowy,city street,daytime
+test,clear,residential,daytime
+test,snowy,city street,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,rainy,city street,daytime
+test,overcast,highway,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,partly cloudy,highway,daytime
+test,clear,city street,daytime
+test,clear,highway,dawn/dusk
+test,clear,highway,daytime
+test,rainy,highway,daytime
+test,partly cloudy,city street,daytime
+test,undefined,highway,daytime
+test,clear,city street,dawn/dusk
+test,clear,parking lot,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,dawn/dusk
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,clear,highway,dawn/dusk
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,daytime
+test,overcast,city street,dawn/dusk
+test,clear,residential,daytime
+test,overcast,highway,daytime
+test,rainy,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,overcast,parking lot,daytime
+test,clear,residential,daytime
+test,overcast,parking lot,daytime
+test,clear,highway,dawn/dusk
+test,overcast,residential,daytime
+test,overcast,highway,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,clear,city street,night
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,clear,highway,night
+test,clear,city street,daytime
+test,clear,residential,night
+test,rainy,residential,daytime
+test,partly cloudy,highway,dawn/dusk
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,partly cloudy,highway,daytime
+test,partly cloudy,city street,daytime
+test,clear,city street,dawn/dusk
+test,undefined,tunnel,undefined
+test,partly cloudy,residential,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,partly cloudy,city street,daytime
+test,overcast,highway,daytime
+test,clear,highway,dawn/dusk
+test,partly cloudy,highway,daytime
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,partly cloudy,city street,daytime
+test,overcast,city street,daytime
+test,overcast,residential,daytime
+test,rainy,residential,daytime
+test,partly cloudy,city street,daytime
+test,partly cloudy,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,overcast,residential,daytime
+test,partly cloudy,residential,daytime
+test,clear,residential,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,overcast,highway,dawn/dusk
+test,partly cloudy,highway,daytime
+test,clear,highway,daytime
+test,partly cloudy,highway,daytime
+test,overcast,city street,daytime
+test,clear,residential,dawn/dusk
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,daytime
+test,rainy,city street,daytime
+test,snowy,city street,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,undefined,highway,daytime
+test,clear,highway,night
+test,overcast,highway,daytime
+test,undefined,city street,dawn/dusk
+test,clear,highway,daytime
+test,clear,residential,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,snowy,city street,dawn/dusk
+test,partly cloudy,residential,daytime
+test,clear,city street,daytime
+test,clear,residential,daytime
+test,clear,city street,daytime
+test,snowy,city street,daytime
+test,partly cloudy,city street,daytime
+test,clear,highway,dawn/dusk
+test,undefined,city street,daytime
+test,overcast,residential,daytime
+test,clear,city street,daytime
+test,clear,residential,daytime
+test,partly cloudy,city street,daytime
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,clear,residential,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,overcast,highway,daytime
+test,overcast,city street,daytime
+test,clear,highway,daytime
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,snowy,parking lot,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,partly cloudy,residential,dawn/dusk
+test,overcast,city street,daytime
+test,clear,highway,daytime
+test,clear,residential,daytime
+test,partly cloudy,city street,daytime
+test,undefined,city street,daytime
+test,rainy,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,highway,daytime
+test,overcast,city street,daytime
+test,clear,residential,daytime
+test,overcast,highway,daytime
+test,partly cloudy,city street,dawn/dusk
+test,partly cloudy,city street,daytime
+test,snowy,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,snowy,city street,daytime
+test,partly cloudy,city street,daytime
+test,overcast,highway,dawn/dusk
+test,clear,residential,daytime
+test,rainy,city street,daytime
+test,clear,residential,daytime
+test,snowy,city street,daytime
+test,rainy,highway,daytime
+test,clear,city street,night
+test,overcast,residential,daytime
+test,undefined,residential,daytime
+test,overcast,highway,dawn/dusk
+test,clear,residential,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,snowy,city street,daytime
+test,overcast,highway,daytime
+test,clear,highway,daytime
+test,partly cloudy,residential,daytime
+test,clear,city street,night
+test,partly cloudy,city street,daytime
+test,partly cloudy,highway,daytime
+test,clear,highway,dawn/dusk
+test,undefined,city street,daytime
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,overcast,highway,daytime
+test,overcast,city street,daytime
+test,overcast,residential,dawn/dusk
+test,overcast,city street,daytime
+test,partly cloudy,city street,daytime
+test,partly cloudy,city street,daytime
+test,snowy,residential,daytime
+test,partly cloudy,highway,daytime
+test,snowy,city street,daytime
+test,undefined,city street,daytime
+test,rainy,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,overcast,highway,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,clear,highway,night
+test,overcast,highway,dawn/dusk
+test,undefined,city street,daytime
+test,overcast,city street,dawn/dusk
+test,undefined,city street,dawn/dusk
+test,partly cloudy,city street,daytime
+test,overcast,residential,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,snowy,residential,daytime
+test,partly cloudy,highway,daytime
+test,clear,highway,daytime
+test,clear,highway,daytime
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,clear,highway,daytime
+test,clear,residential,daytime
+test,overcast,city street,dawn/dusk
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,undefined,city street,dawn/dusk
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,dawn/dusk
+test,clear,city street,daytime
+test,clear,highway,dawn/dusk
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,partly cloudy,city street,daytime
+test,undefined,city street,dawn/dusk
+test,overcast,highway,daytime
+test,overcast,city street,dawn/dusk
+test,snowy,city street,daytime
+test,partly cloudy,residential,daytime
+test,overcast,city street,daytime
+test,rainy,highway,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,clear,highway,daytime
+test,overcast,residential,daytime
+test,snowy,city street,daytime
+test,partly cloudy,city street,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,partly cloudy,city street,daytime
+test,undefined,city street,daytime
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,overcast,city street,dawn/dusk
+test,rainy,city street,daytime
+test,clear,city street,daytime
+test,rainy,city street,daytime
+test,partly cloudy,highway,daytime
+test,overcast,city street,daytime
+test,overcast,highway,daytime
+test,snowy,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,rainy,residential,daytime
+test,snowy,city street,night
+test,partly cloudy,residential,daytime
+test,overcast,highway,daytime
+test,clear,highway,daytime
+test,undefined,highway,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,night
+test,undefined,city street,dawn/dusk
+test,overcast,city street,daytime
+test,partly cloudy,residential,daytime
+test,clear,residential,daytime
+test,undefined,city street,dawn/dusk
+test,snowy,city street,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,overcast,highway,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,undefined,residential,daytime
+test,partly cloudy,residential,daytime
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,undefined,city street,dawn/dusk
+test,clear,city street,daytime
+test,undefined,residential,daytime
+test,clear,city street,daytime
+test,rainy,city street,daytime
+test,undefined,residential,daytime
+test,overcast,residential,daytime
+test,partly cloudy,city street,daytime
+test,clear,highway,daytime
+test,undefined,highway,daytime
+test,overcast,residential,daytime
+test,foggy,highway,daytime
+test,partly cloudy,city street,daytime
+test,clear,highway,dawn/dusk
+test,rainy,city street,daytime
+test,snowy,city street,daytime
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,undefined,residential,daytime
+test,clear,city street,night
+test,partly cloudy,highway,dawn/dusk
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,overcast,city street,dawn/dusk
+test,rainy,highway,daytime
+test,clear,city street,daytime
+test,overcast,highway,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,clear,highway,dawn/dusk
+test,clear,city street,daytime
+test,overcast,highway,dawn/dusk
+test,overcast,city street,daytime
+test,overcast,highway,dawn/dusk
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,snowy,city street,dawn/dusk
+test,clear,city street,daytime
+test,overcast,residential,daytime
+test,clear,residential,daytime
+test,clear,city street,daytime
+test,snowy,city street,daytime
+test,partly cloudy,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,partly cloudy,city street,daytime
+test,undefined,city street,daytime
+test,overcast,city street,dawn/dusk
+test,partly cloudy,highway,daytime
+test,clear,city street,daytime
+test,partly cloudy,city street,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,snowy,highway,daytime
+test,overcast,city street,daytime
+test,partly cloudy,highway,daytime
+test,clear,highway,dawn/dusk
+test,undefined,highway,daytime
+test,snowy,city street,dawn/dusk
+test,overcast,city street,daytime
+test,clear,highway,dawn/dusk
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,clear,highway,daytime
+test,partly cloudy,highway,daytime
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,rainy,city street,daytime
+test,clear,city street,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,undefined,highway,daytime
+test,clear,highway,daytime
+test,snowy,residential,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,partly cloudy,city street,daytime
+test,partly cloudy,residential,daytime
+test,undefined,highway,daytime
+test,partly cloudy,city street,daytime
+test,undefined,highway,daytime
+test,partly cloudy,highway,dawn/dusk
+test,partly cloudy,highway,daytime
+test,undefined,residential,daytime
+test,undefined,city street,daytime
+test,clear,city street,dawn/dusk
+test,undefined,city street,daytime
+test,partly cloudy,highway,daytime
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,rainy,city street,daytime
+test,clear,highway,daytime
+test,snowy,city street,daytime
+test,overcast,city street,daytime
+test,clear,city street,daytime
+test,partly cloudy,city street,daytime
+test,partly cloudy,highway,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,overcast,residential,daytime
+test,overcast,city street,dawn/dusk
+test,partly cloudy,city street,daytime
+test,overcast,highway,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,clear,city street,daytime
+test,undefined,highway,daytime
+test,undefined,residential,daytime
+test,clear,city street,daytime
+test,partly cloudy,residential,daytime
+test,snowy,city street,daytime
+test,clear,highway,night
+test,overcast,city street,daytime
+test,undefined,residential,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,overcast,city street,daytime
+test,partly cloudy,city street,daytime
+test,snowy,highway,daytime
+test,overcast,highway,dawn/dusk
+test,clear,residential,daytime
+test,undefined,highway,daytime
+test,overcast,highway,daytime
+test,rainy,city street,daytime
+test,partly cloudy,residential,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,daytime
+test,clear,city street,dawn/dusk
+test,overcast,highway,dawn/dusk
+test,undefined,city street,daytime
+test,partly cloudy,highway,daytime
+test,clear,highway,daytime
+test,partly cloudy,highway,dawn/dusk
+test,clear,city street,daytime
+test,clear,city street,night
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,clear,residential,daytime
+test,overcast,highway,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,clear,city street,night
+test,clear,city street,night
+test,rainy,city street,daytime
+test,undefined,city street,daytime
+test,undefined,highway,daytime
+test,overcast,residential,daytime
+test,clear,city street,daytime
+test,overcast,city street,daytime
+test,clear,residential,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,clear,city street,dawn/dusk
+test,partly cloudy,city street,daytime
+test,clear,highway,daytime
+test,partly cloudy,residential,daytime
+test,partly cloudy,highway,daytime
+test,clear,city street,dawn/dusk
+test,undefined,city street,daytime
+test,overcast,city street,dawn/dusk
+test,undefined,residential,daytime
+test,partly cloudy,highway,daytime
+test,overcast,highway,dawn/dusk
+test,overcast,parking lot,daytime
+test,overcast,city street,daytime
+test,overcast,city street,daytime
+test,clear,highway,daytime
+test,partly cloudy,highway,dawn/dusk
+test,clear,city street,night
+test,partly cloudy,city street,daytime
+test,undefined,city street,daytime
+test,clear,residential,daytime
+test,clear,residential,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,daytime
+test,snowy,city street,daytime
+test,clear,highway,dawn/dusk
+test,clear,city street,dawn/dusk
+test,clear,city street,night
+test,snowy,city street,dawn/dusk
+test,clear,city street,daytime
+test,clear,residential,daytime
+test,overcast,highway,daytime
+test,clear,highway,night
+test,overcast,city street,daytime
+test,overcast,highway,daytime
+test,partly cloudy,city street,daytime
+test,rainy,city street,daytime
+test,partly cloudy,city street,dawn/dusk
+test,undefined,city street,daytime
+test,overcast,residential,daytime
+test,clear,city street,dawn/dusk
+test,undefined,city street,daytime
+test,clear,highway,night
+test,snowy,city street,dawn/dusk
+test,clear,city street,night
+test,partly cloudy,residential,daytime
+test,undefined,city street,daytime
+test,rainy,highway,dawn/dusk
+test,overcast,highway,daytime
+test,overcast,city street,dawn/dusk
+test,partly cloudy,parking lot,daytime
+test,clear,city street,daytime
+test,clear,highway,night
+test,rainy,city street,daytime
+test,snowy,highway,daytime
+test,overcast,city street,daytime
+test,undefined,city street,daytime
+test,partly cloudy,city street,daytime
+test,undefined,city street,dawn/dusk
+test,clear,city street,daytime
+test,clear,city street,night
+test,clear,highway,daytime
+test,overcast,city street,daytime
+test,rainy,residential,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,highway,daytime
+test,overcast,city street,dawn/dusk
+test,clear,city street,daytime
+test,clear,city street,night
+test,snowy,residential,daytime
+test,undefined,city street,daytime
+test,overcast,residential,daytime
+test,clear,city street,dawn/dusk
+test,undefined,city street,daytime
+test,partly cloudy,city street,dawn/dusk
+test,overcast,city street,daytime
+test,rainy,city street,daytime
+test,partly cloudy,city street,daytime
+test,clear,highway,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,clear,city street,daytime
+test,overcast,highway,daytime
+test,partly cloudy,highway,daytime
+test,snowy,city street,dawn/dusk
+test,partly cloudy,city street,dawn/dusk
+test,undefined,city street,daytime

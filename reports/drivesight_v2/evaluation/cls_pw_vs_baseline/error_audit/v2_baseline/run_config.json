@@ -1,0 +1,23 @@
+{
+  "run_label": "v2_baseline",
+  "model": "runs\\drivesight_v2\\v2_baseline\\weights\\best.pt",
+  "dataset_dir": "C:\\Users\\wahbi\\OneDrive\\Bureau\\DriveSight_New\\data\\bdd100k\\yolo_dataset",
+  "split": "val",
+  "conf": 0.25,
+  "prediction_iou": 0.7,
+  "match_iou": 0.5,
+  "imgsz": 1152,
+  "device": "0",
+  "max_examples": 30,
+  "class_names": [
+    "pedestrian",
+    "rider",
+    "car",
+    "truck",
+    "bus",
+    "motorcycle",
+    "bicycle",
+    "traffic light",
+    "traffic sign"
+  ]
+}

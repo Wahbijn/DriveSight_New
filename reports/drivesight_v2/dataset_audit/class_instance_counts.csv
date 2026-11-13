@@ -1,0 +1,28 @@
+split,class,instances
+train,pedestrian,4678
+train,rider,245
+train,car,29725
+train,truck,1555
+train,bus,571
+train,motorcycle,166
+train,bicycle,399
+train,traffic light,6820
+train,traffic sign,10044
+val,pedestrian,1083
+val,rider,59
+val,car,7401
+val,truck,356
+val,bus,151
+val,motorcycle,45
+val,bicycle,74
+val,traffic light,1759
+val,traffic sign,2492
+test,pedestrian,1228
+test,rider,72
+test,car,9228
+test,truck,474
+test,bus,171
+test,motorcycle,39
+test,bicycle,116
+test,traffic light,2159
+test,traffic sign,3027

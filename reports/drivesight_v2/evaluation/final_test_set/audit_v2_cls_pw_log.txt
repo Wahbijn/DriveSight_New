@@ -1,0 +1,67 @@
+Loading model: C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\runs\drivesight_v2\v2_cls_pw\weights\best.pt
+Validation images: 830
+Confidence threshold: 0.25
+Matching IoU threshold: 0.5
+Processed 100/830 images
+Processed 200/830 images
+Processed 300/830 images
+Processed 400/830 images
+Processed 500/830 images
+Processed 600/830 images
+Processed 700/830 images
+Processed 800/830 images
+Processed 830/830 images
+
+========== VALIDATION ERROR AUDIT ==========
+Model: C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\runs\drivesight_v2\v2_cls_pw\weights\best.pt
+Images: 830
+Ground-truth objects: 16514
+Predictions: 14891
+Correct class matches: 10243
+Class confusions: 233
+Missed objects: 6038
+Unmatched predictions: 4415
+
+Missed objects by class:
+  pedestrian: 688
+  rider: 37
+  car: 2620
+  truck: 162
+  bus: 60
+  motorcycle: 20
+  bicycle: 67
+  traffic light: 951
+  traffic sign: 1433
+
+Unmatched predictions by class:
+  pedestrian: 131
+  rider: 33
+  car: 2568
+  truck: 155
+  bus: 34
+  motorcycle: 10
+  bicycle: 36
+  traffic light: 640
+  traffic sign: 808
+
+Most common class confusions:
+  True truck -> predicted car: 79
+  True car -> predicted truck: 24
+  True traffic sign -> predicted traffic light: 23
+  True bus -> predicted car: 21
+  True traffic light -> predicted traffic sign: 16
+  True bus -> predicted truck: 15
+  True truck -> predicted bus: 7
+  True car -> predicted bus: 7
+  True pedestrian -> predicted car: 6
+  True traffic sign -> predicted car: 5
+  True rider -> predicted pedestrian: 5
+  True pedestrian -> predicted rider: 5
+  True motorcycle -> predicted car: 4
+  True car -> predicted traffic sign: 3
+  True pedestrian -> predicted bicycle: 3
+
+Saved example images: 30
+Output directory: C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\reports\drivesight_v2\evaluation\final_test_set\error_audit\v2_cls_pw
+
+CSV reports saved to C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\reports\drivesight_v2\evaluation\final_test_set\error_audit\v2_cls_pw

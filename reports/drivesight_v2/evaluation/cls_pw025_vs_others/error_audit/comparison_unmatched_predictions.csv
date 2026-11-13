@@ -1,0 +1,10 @@
+class,v2_baseline,v2_cls_pw,v2_cls_pw025
+pedestrian,248,137,371
+rider,12,16,8
+car,1745,2122,1742
+truck,99,100,110
+bus,29,45,35
+motorcycle,22,3,3
+bicycle,15,24,21
+traffic light,682,536,611
+traffic sign,705,641,765

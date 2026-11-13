@@ -1,0 +1,37 @@
+true_class,predicted_class,v1_baseline,v1_oversampling,v2_baseline
+truck,car,54,50,59
+car,truck,20,18,36
+bus,truck,27,19,27
+traffic light,traffic sign,18,21,16
+bus,car,16,16,16
+traffic sign,traffic light,10,14,14
+car,bus,12,8,9
+truck,bus,4,12,4
+rider,pedestrian,6,9,10
+pedestrian,car,4,6,7
+motorcycle,bicycle,4,5,3
+rider,bicycle,4,1,1
+bicycle,motorcycle,4,1,2
+pedestrian,rider,1,3,4
+car,motorcycle,4,0,1
+motorcycle,car,3,2,2
+traffic sign,car,1,2,2
+motorcycle,pedestrian,2,1,0
+pedestrian,bicycle,1,2,0
+truck,traffic sign,2,1,1
+car,pedestrian,2,1,2
+car,traffic sign,1,0,0
+car,bicycle,0,1,1
+rider,motorcycle,0,0,1
+rider,car,1,1,0
+rider,traffic sign,1,0,0
+bicycle,pedestrian,1,1,0
+pedestrian,traffic light,1,1,0
+bicycle,car,0,0,1
+bicycle,traffic sign,1,1,0
+pedestrian,motorcycle,0,1,1
+pedestrian,traffic sign,0,0,1
+truck,traffic light,1,0,1
+rider,truck,0,1,0
+traffic sign,truck,0,1,1
+car,rider,0,1,1

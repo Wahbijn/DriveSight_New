@@ -1,0 +1,67 @@
+Loading model: C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\runs\drivesight_v2\v2_cls_pw025\weights\best.pt
+Validation images: 830
+Confidence threshold: 0.25
+Matching IoU threshold: 0.5
+Processed 100/830 images
+Processed 200/830 images
+Processed 300/830 images
+Processed 400/830 images
+Processed 500/830 images
+Processed 600/830 images
+Processed 700/830 images
+Processed 800/830 images
+Processed 830/830 images
+
+========== VALIDATION ERROR AUDIT ==========
+Model: C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\runs\drivesight_v2\v2_cls_pw025\weights\best.pt
+Images: 830
+Ground-truth objects: 16514
+Predictions: 15504
+Correct class matches: 10875
+Class confusions: 247
+Missed objects: 5392
+Unmatched predictions: 4382
+
+Missed objects by class:
+  pedestrian: 515
+  rider: 34
+  car: 2471
+  truck: 155
+  bus: 57
+  motorcycle: 19
+  bicycle: 62
+  traffic light: 824
+  traffic sign: 1255
+
+Unmatched predictions by class:
+  pedestrian: 371
+  rider: 15
+  car: 2151
+  truck: 115
+  bus: 33
+  motorcycle: 5
+  bicycle: 12
+  traffic light: 776
+  traffic sign: 904
+
+Most common class confusions:
+  True truck -> predicted car: 71
+  True traffic sign -> predicted traffic light: 28
+  True bus -> predicted car: 24
+  True car -> predicted truck: 22
+  True bus -> predicted truck: 18
+  True traffic light -> predicted traffic sign: 13
+  True car -> predicted bus: 12
+  True rider -> predicted pedestrian: 11
+  True truck -> predicted bus: 11
+  True pedestrian -> predicted car: 9
+  True traffic sign -> predicted car: 6
+  True car -> predicted pedestrian: 3
+  True traffic sign -> predicted truck: 2
+  True traffic sign -> predicted pedestrian: 2
+  True bicycle -> predicted pedestrian: 2
+
+Saved example images: 30
+Output directory: C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\reports\drivesight_v2\evaluation\final_test_set\error_audit\v2_cls_pw025
+
+CSV reports saved to C:\Users\wahbi\OneDrive\Bureau\DriveSight_New\reports\drivesight_v2\evaluation\final_test_set\error_audit\v2_cls_pw025

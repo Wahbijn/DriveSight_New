@@ -1,0 +1,4 @@
+Model,Precision (%),Recall (%),mAP@50 (%),mAP@50-95 (%)
+Baseline,53.8,43.3,45.3,24.4
+Fine-tuning,54.2,40.9,42.5,22.5
+Oversampling,54.1,44.6,45.9,24.9

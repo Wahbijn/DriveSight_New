@@ -1,0 +1,10 @@
+class,correct,ground_truth_total
+pedestrian,518,1083
+rider,18,59
+car,5361,7401
+truck,169,356
+bus,71,151
+motorcycle,15,45
+bicycle,26,74
+traffic light,934,1759
+traffic sign,1271,2492

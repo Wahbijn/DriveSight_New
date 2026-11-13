@@ -1,0 +1,67 @@
+class,metric,global_025,max_f1_per_class,recall_priority
+pedestrian,precision,0.6345,0.7096,0.4856
+pedestrian,recall,0.5946,0.5642,0.6685
+pedestrian,f1,0.6139,0.6286,0.5625
+pedestrian,tp,644,611,724
+pedestrian,fp,371,250,767
+pedestrian,fn,439,472,359
+rider,precision,0.7241,0.6857,0.4483
+rider,recall,0.3559,0.4068,0.4407
+rider,f1,0.4773,0.5106,0.4444
+rider,tp,21,24,26
+rider,fp,8,11,32
+rider,fn,38,35,33
+car,precision,0.757,0.8607,0.8604
+car,recall,0.7331,0.6711,0.6711
+car,f1,0.7449,0.7542,0.7541
+car,tp,5426,4967,4967
+car,fp,1742,804,806
+car,fn,1975,2434,2434
+truck,precision,0.6296,0.6493,0.6493
+truck,recall,0.5253,0.5253,0.5253
+truck,f1,0.5727,0.5807,0.5807
+truck,tp,187,187,187
+truck,fp,110,101,101
+truck,fn,169,169,169
+bus,precision,0.693,0.7895,0.7895
+bus,recall,0.5232,0.4967,0.4967
+bus,f1,0.5962,0.6098,0.6098
+bus,tp,79,75,75
+bus,fp,35,20,20
+bus,fn,72,76,76
+motorcycle,precision,0.8333,0.8333,0.7895
+motorcycle,recall,0.3333,0.3333,0.3333
+motorcycle,f1,0.4762,0.4762,0.4688
+motorcycle,tp,15,15,15
+motorcycle,fp,3,3,4
+motorcycle,fn,30,30,30
+bicycle,precision,0.5625,0.5625,0.4024
+bicycle,recall,0.3649,0.3649,0.4459
+bicycle,f1,0.4426,0.4426,0.4231
+bicycle,tp,27,27,33
+bicycle,fp,21,21,49
+bicycle,fn,47,47,41
+traffic light,precision,0.6328,0.695,0.695
+traffic light,recall,0.5986,0.5571,0.5571
+traffic light,f1,0.6152,0.6185,0.6185
+traffic light,tp,1053,980,980
+traffic light,fp,611,430,430
+traffic light,fn,706,779,779
+traffic sign,precision,0.6476,0.6966,0.6962
+traffic sign,recall,0.5642,0.5389,0.5389
+traffic sign,f1,0.603,0.6077,0.6076
+traffic sign,tp,1406,1343,1343
+traffic sign,fp,765,585,586
+traffic sign,fn,1086,1149,1149
+OVERALL_macro,precision,0.6794,0.7203,0.6462
+OVERALL_macro,recall,0.5104,0.4954,0.5197
+OVERALL_macro,f1,0.5829,0.587,0.5761
+OVERALL_macro,tp,8858,8229,8350
+OVERALL_macro,fp,3666,2225,2795
+OVERALL_macro,fn,4562,5191,5070
+OVERALL_micro,precision,0.7073,0.7872,0.7492
+OVERALL_micro,recall,0.6601,0.6132,0.6222
+OVERALL_micro,f1,0.6829,0.6894,0.6798
+OVERALL_micro,tp,8858,8229,8350
+OVERALL_micro,fp,3666,2225,2795
+OVERALL_micro,fn,4562,5191,5070

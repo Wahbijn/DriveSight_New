@@ -1,0 +1,22 @@
+true_class,predicted_class,count
+truck,car,57
+bus,truck,26
+car,truck,23
+traffic light,traffic sign,19
+bus,car,16
+traffic sign,traffic light,14
+rider,pedestrian,9
+truck,bus,8
+pedestrian,rider,7
+car,bus,6
+motorcycle,bicycle,5
+pedestrian,car,5
+pedestrian,motorcycle,2
+rider,car,2
+motorcycle,car,2
+pedestrian,bicycle,2
+rider,bicycle,1
+truck,traffic sign,1
+rider,truck,1
+car,pedestrian,1
+bicycle,pedestrian,1

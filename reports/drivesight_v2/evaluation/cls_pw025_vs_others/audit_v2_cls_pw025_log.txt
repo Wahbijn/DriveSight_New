@@ -1,0 +1,65 @@
+Loading model: runs\drivesight_v2\v2_cls_pw025\weights\best.pt
+Validation images: 686
+Confidence threshold: 0.25
+Matching IoU threshold: 0.5
+Processed 100/686 images
+Processed 200/686 images
+Processed 300/686 images
+Processed 400/686 images
+Processed 500/686 images
+Processed 600/686 images
+Processed 686/686 images
+
+========== VALIDATION ERROR AUDIT ==========
+Model: runs\drivesight_v2\v2_cls_pw025\weights\best.pt
+Images: 686
+Ground-truth objects: 13420
+Predictions: 12726
+Correct class matches: 8858
+Class confusions: 202
+Missed objects: 4360
+Unmatched predictions: 3666
+
+Missed objects by class:
+  pedestrian: 429
+  rider: 26
+  car: 1939
+  truck: 103
+  bus: 38
+  motorcycle: 24
+  bicycle: 45
+  traffic light: 689
+  traffic sign: 1067
+
+Unmatched predictions by class:
+  pedestrian: 371
+  rider: 8
+  car: 1742
+  truck: 110
+  bus: 35
+  motorcycle: 3
+  bicycle: 21
+  traffic light: 611
+  traffic sign: 765
+
+Most common class confusions:
+  True truck -> predicted car: 59
+  True car -> predicted truck: 21
+  True bus -> predicted truck: 19
+  True traffic light -> predicted traffic sign: 17
+  True traffic sign -> predicted traffic light: 16
+  True bus -> predicted car: 15
+  True rider -> predicted pedestrian: 9
+  True car -> predicted bus: 8
+  True pedestrian -> predicted car: 7
+  True car -> predicted pedestrian: 5
+  True truck -> predicted bus: 5
+  True motorcycle -> predicted car: 3
+  True bicycle -> predicted motorcycle: 2
+  True pedestrian -> predicted traffic sign: 2
+  True motorcycle -> predicted bicycle: 2
+
+Saved example images: 30
+Output directory: reports\drivesight_v2\evaluation\cls_pw025_vs_others\error_audit\v2_cls_pw025
+
+CSV reports saved to reports\drivesight_v2\evaluation\cls_pw025_vs_others\error_audit\v2_cls_pw025

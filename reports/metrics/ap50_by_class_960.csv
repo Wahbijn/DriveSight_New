@@ -1,0 +1,10 @@
+,Baseline,Fine-tuning,Oversampling
+pedestrian,55.7,53.5,56.0
+rider,34.7,27.2,26.2
+car,74.8,72.4,74.8
+truck,43.6,41.4,42.0
+bus,48.1,45.6,47.7
+motorcycle,20.0,18.3,33.7
+bicycle,27.1,21.1,26.4
+traffic light,51.1,50.9,52.8
+traffic sign,52.9,51.9,53.8

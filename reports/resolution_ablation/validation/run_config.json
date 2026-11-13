@@ -1,0 +1,19 @@
+{
+  "data": "C:\\Users\\wahbi\\OneDrive\\Bureau\\DriveSight_New\\data\\bdd100k\\yolo_dataset\\data.yaml",
+  "split": "val",
+  "iou": 0.7,
+  "batch": 1,
+  "conf": null,
+  "device": "0",
+  "imgsz_values": [
+    960,
+    1152,
+    1280
+  ],
+  "models": {
+    "baseline": "runs\\detect\\runs\\bdd100k_yolo11n_baseline\\weights\\best.pt",
+    "oversampling": "runs\\detect\\runs\\bdd100k_yolo11n_oversampling\\weights\\best.pt",
+    "finetune": "runs\\detect\\runs\\bdd100k_yolo11n_finetune_960\\weights\\best.pt"
+  },
+  "note": "conf omitted means Ultralytics default 0.001 (standard for mAP/PR-curve construction)."
+}
